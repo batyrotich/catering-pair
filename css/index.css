@@ -8,3 +8,8 @@ body, html{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.carousel-inner img {
+    width: 100%;
+    height: 50%;
+  }
+  <script src="js/bootstrap.bundle.min.js"></script>
